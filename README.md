@@ -2,7 +2,7 @@ PracticeHere
 ============
 
 This is where we PRACTICE
-
+and LEARN
 to use VIM:
 
 :q to quit
