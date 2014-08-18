@@ -11,11 +11,11 @@ struct Man
 
 int main()
 {
-    //worker1;
+    //worker1; THis code is garbage
    strcpy(worker.name, "jon");
    strcpy(father.name, "jack");
 
- // strcpy(Man.name, "herb");
+
     printf("you are %s\n",worker.name);
       printf("you are %s\n",father.name);
    // printf("you are %s\n",Man.name);
