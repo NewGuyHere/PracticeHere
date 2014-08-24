@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408850189 source:c:\users\jonathanvelez1\desktop\mybuilds\gepractice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
