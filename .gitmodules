@@ -1,0 +1,3 @@
+[submodule "SubmoduleA"]
+	path = SubmoduleA
+	url = https://github.com/Jfeyeve/SubmoduleA.git
